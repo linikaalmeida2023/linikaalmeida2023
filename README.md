@@ -24,16 +24,18 @@ This repository showcases my projects and skills in:
 
 ### Technical Skills
 
-- **Programming Languages**: Python, R, MATLAB
+- **Programming Languages**: Python, R
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **GIS Tools**: QGIS, ArcGIS
-- **Other Tools**: SQL, Excel
+- **Other Tools**: Excel
 
 ## Connect with Me
 
 I am always open to new opportunities and collaborations. Feel free to reach out to me via:
+
 - **LinkedIn**: [https://www.linkedin.com/in/linika-almeida/](#)
 - **Email**: linika_almeida@hotmail.com
+
 
 
 Explore my repositories and don't hesitate to contact me for collaborations or opportunities! 😊
