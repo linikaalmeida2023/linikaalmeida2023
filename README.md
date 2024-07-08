@@ -5,11 +5,11 @@ I am passionate about leveraging data to drive sustainable solutions and innovat
 
 ## Education
 
-•	BS Higher Diploma in Science in Data Analytics for Business CCT College Dublin | Apr. 2024
+•	**BS Higher Diploma in Science in Data Analytics for Business** CCT College Dublin | Apr. 2024
 
-•	Master in Environmental Technologies Federal University Mato Grosso do Sul | Feb. 2019
+•	**Master in Environmental Technologies** Federal University Mato Grosso do Sul | Feb. 2019
 
-•	Bachelor in Sanitary & Environmental Engineering Catholic University Dom Bosco | May 2014
+•	**Bachelor in Sanitary & Environmental Engineering** Catholic University Dom Bosco | May 2014
 
 ## Certifications
 
