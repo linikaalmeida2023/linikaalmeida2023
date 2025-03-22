@@ -1,6 +1,6 @@
 # Welcome to My Github Profile! 
 
-I am a Data Analyst and Scientist with a strong background in Environmental & Civil Engineering. I hold a Master’s Degree in Environmental Technologies, which has equipped me with a deep understanding of the intersection between technology and the environment.
+I am a Data Analyst and Scientist with a strong background in Sanitary & Environmental Engineering. I hold a Master’s Degree in Environmental Technologies, which has equipped me with a deep understanding of the intersection between technology and the environment.
 I am passionate about leveraging data to drive sustainable solutions and innovations in environmental and civil engineering fields. My expertise spans data analysis, statistical modeling, and geospatial analysis, which I have applied to various projects aimed at improving environmental quality and resource management.
 
 ## Education
